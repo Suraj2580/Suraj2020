@@ -1,0 +1,84 @@
+.imagecontainer{
+    background:url("code photo panipuri.webp");
+    border-style:solid;
+    border-color:white;
+    background-size:cover;
+}
+.logo{
+    text-align:center;
+    color:red;
+    font-weight:bold;
+    font-size:90px;
+    background-color:white;
+    height:150px;
+    width:150px;
+    margin:auto;
+    border-radius:50%;
+    margin-top:80px;
+    margin-bottom:80px;
+}
+.mainheasing{
+    font-weight:bold;
+    margin:auto;
+    text-align: center;
+    text-color:white;
+    color:white;
+}
+.mainbutton{
+   text-align:center;
+   margin-bottom:50px;
+}       
+.quickheading{
+    font-weight:bold;
+    color:blue;
+    font-size:40px;
+} 
+.quicksubheading{
+    color:gray;
+}
+.select{
+    width:200px;
+    height:35px;
+    border:none;
+    border-color: gray;
+}
+.detalist{
+    width:100px;
+}
+.belowall{
+    margin-left:40px;
+}
+.tilecontainer{
+    height:150px;
+    width:300px;
+    background-color:white;
+    margin-right:40px;
+    margin-bottom:40px;
+    margin-left:40px;
+    box-shadow:0px 3px 6px  black;
+    Float:left;
+}
+
+.tilecomponent1{
+    width:50%;
+    float:left;
+}
+.tilecomponent2{
+   width:50%;
+   float:left;
+}
+.componentheading{
+   text-align:left;
+   color:blue;
+   font-size:22px;
+   font-weight:bold;
+   float:left;
+   padding:10px 0px;
+}
+.componentsubheading{
+   text-align:left;
+   color:green;
+   font-size:16px;
+   float:left;
+   
+}
